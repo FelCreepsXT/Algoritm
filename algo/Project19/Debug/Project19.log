@@ -1,0 +1,9 @@
+﻿  Inicio.cpp
+d:\ing. soft\algo\project19\cdiscos.h(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+d:\ing. soft\algo\project19\arrdisco.h(44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\ing. soft\algo\project19\arrdisco.h(45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\ing. soft\algo\project19\cjugador.h(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+  Inicio.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project19.vcxproj -> D:\Ing. Soft\algo\Debug\Project19.exe
